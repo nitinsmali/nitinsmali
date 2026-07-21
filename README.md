@@ -1,7 +1,8 @@
-<div align="Center">
-  
+<div align="center">
+
 # Nitin Mali
-### BCA Student · Aspiring Full-Stack Developer · India
+
+BCA Student · Aspiring Full-Stack Developer · India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitinsmali/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nitinsmali)
@@ -10,32 +11,52 @@
 [![Email](https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:malinitin.jd@gmail.com)
 
 </div>
-<br/>
 
 ## About
 
-I'm a Computer Applications (BCA) student building practical, user-facing web projects — from full-stack apps to browser tools and automation bots. I write about what I build on [Dev.to](https://dev.to/nitinsmali) and [Hashnode](https://hashnode.com/@nitinsmali), and ship the code on [GitHub](https://github.com/nitinsmali).
+I'm a Computer Applications (BCA) graduate passionate about building practical, user-focused software. I enjoy developing full-stack web applications, automation tools, and Telegram bots while continuously improving my software development and problem-solving skills.
 
-**Stack:** `HTML` `CSS` `JavaScript` `React` `PHP` `Python` `MySQL` 
+I write about what I build on [Dev.to](https://dev.to/nitinsmali) and [Hashnode](https://hashnode.com/@nitinsmali), and publish my projects on [GitHub](https://github.com/nitinsmali).
 
-<br/>
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript` `React` `PHP` `Python` `MySQL`
 
 ## Projects
 
-**[Online Quiz](https://github.com/nitinsmali/Online_Quiz)**
-Final-year project — a responsive, cross-device online quiz web application. Built with `HTML` `CSS` `JavaScript`.
+### Online Quiz
+**Repository:** https://github.com/nitinsmali/Online_Quiz
 
-**[Personal Portfolio](https://github.com/nitinsmali/personal-portfolio)**
-A modern, responsive portfolio site showcasing skills, projects, and achievements. Live at [personal-portfolio-six-nu-84.vercel.app](https://personal-portfolio-six-nu-84.vercel.app/). Built with `HTML` `CSS` `JavaScript`.
+Final-year project featuring user authentication, category-based quizzes, leaderboard, timer, and score tracking.
 
-**[PDFMasterBot](https://github.com/nitinsmali/PDFMasterBot)**
-A Python-based Telegram bot that enables users to convert, merge, split, and manage PDF documents directly within Telegram.
+**Tech:** `HTML` `CSS` `JavaScript` `PHP` `MySQL`
 
-**[Rapid Translator](https://github.com/nitinsmali/rapid-translator)**
-A fast, lightweight translation tool. Built with `JavaScript`.
+### Personal Portfolio
+**Repository:** https://github.com/nitinsmali/personal-portfolio
 
-<br/>
+A responsive portfolio website showcasing my skills, projects, certifications, and achievements.
+
+**Live:** https://personal-portfolio-six-nu-84.vercel.app/
+
+**Tech:** `HTML` `CSS` `JavaScript`
+
+### PDFMasterBot
+**Repository:** https://github.com/nitinsmali/PDFMasterBot
+
+A Python-based Telegram bot for converting, merging, splitting, and managing PDF documents directly within Telegram.
+
+**Tech:** `Python` `python-telegram-bot`
+
+### Rapid Translator
+**Repository:** https://github.com/nitinsmali/rapid-translator
+
+A lightweight translation application built using JavaScript.
+
+**Tech:** `JavaScript`
 
 ## Contact
 
-Open to internships and collaborative projects — reach out via [LinkedIn](https://www.linkedin.com/in/nitinsmali/) or [email](mailto:malinitin.jd@gmail.com).
+I'm open to internships, collaborations, and open-source contributions.
+
+- LinkedIn: https://www.linkedin.com/in/nitinsmali/
+- Email: malinitin.jd@gmail.com
