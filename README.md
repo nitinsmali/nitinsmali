@@ -1,5 +1,5 @@
-<div align="center">
-
+<div align="Center">
+  
 # Nitin Mali
 ### BCA Student · Aspiring Full-Stack Developer · India
 
@@ -10,7 +10,6 @@
 [![Email](https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:malinitin.jd@gmail.com)
 
 </div>
-
 <br/>
 
 ## About
