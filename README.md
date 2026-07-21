@@ -17,7 +17,7 @@
 
 I'm a Computer Applications (BCA) student building practical, user-facing web projects — from full-stack apps to browser tools and automation bots. I write about what I build on [Dev.to](https://dev.to/nitinsmali) and [Hashnode](https://hashnode.com/@nitinsmali), and ship the code on [GitHub](https://github.com/nitinsmali).
 
-**Stack:** `HTML` `CSS` `JavaScript` `React` `Node.js` `Python`
+**Stack:** `HTML` `CSS` `JavaScript` `React` `PHP` `Python` `MySQL` 
 
 <br/>
 
@@ -30,7 +30,7 @@ Final-year project — a responsive, cross-device online quiz web application. B
 A modern, responsive portfolio site showcasing skills, projects, and achievements. Live at [personal-portfolio-six-nu-84.vercel.app](https://personal-portfolio-six-nu-84.vercel.app/). Built with `HTML` `CSS` `JavaScript`.
 
 **[PDFMasterBot](https://github.com/nitinsmali/PDFMasterBot)**
-[One-line description — couldn't verify repo details automatically, add your own summary here.]
+A Python-based Telegram bot that enables users to convert, merge, split, and manage PDF documents directly within Telegram.
 
 **[Rapid Translator](https://github.com/nitinsmali/rapid-translator)**
 A fast, lightweight translation tool. Built with `JavaScript`.
