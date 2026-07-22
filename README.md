@@ -26,7 +26,7 @@ I'm a Computer Applications (BCA) student building practical, user-facing web pr
 Final-year project — a responsive, cross-device online quiz web application. Built with `HTML` `CSS` `JavaScript`.
 
 **[Personal Portfolio](https://github.com/nitinsmali/personal-portfolio)**
-A modern, responsive portfolio site showcasing skills, projects, and achievements. Live at [Visit here](https://personal-portfolio-six-nu-84.vercel.app/). Built with `HTML` `CSS` `JavaScript`.
+A modern, responsive portfolio site showcasing skills, projects, and achievements. Live at [Visit here](https://nitinsmali.vercel.app/). Built with `HTML` `CSS` `JavaScript`.
 
 **[PDFMasterBot](https://github.com/nitinsmali/PDFMasterBot)**
 A Python-based Telegram bot that enables users to convert, merge, split, and manage PDF documents directly within Telegram. Built with `Python` `python-telegram-bot`
